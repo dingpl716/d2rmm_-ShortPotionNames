@@ -1,0 +1,18 @@
+
+
+{
+  "name": "Short Potion Names",
+  "description": "Makes potion names much shorter (e.g. HP1) and colors them by type.",
+  "author": "olegbl",
+  "website": "https://www.nexusmods.com/diablo2resurrected/mods/177",
+  "version": "1.2",
+  "config": [
+    {
+      "id": "colorAll",
+      "type": "checkbox",
+      "name": "Color all potions or just highest potion.",
+      "description": "Disable to color highest potion only.",
+      "defaultValue": true
+    }
+  ]
+}
